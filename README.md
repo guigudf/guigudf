@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/guilherme-dos-santos-araujo-1ab66117b/)](https://www.linkedin.com/in/guilherme-dos-santos-araujo-1ab66117b/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/guigudf)](https://whats.link/guigudf)
 [![Hotmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:guigudf@hotmail.com)](mailto:guigudf@hotmail.com)
-[![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&logoColor=white&color=black&link=https://sourcerer.io/guigudf1)](https://sourcerer.io/guigudf1)
 
 * Graduando em Engenharia Eletrônica
 
