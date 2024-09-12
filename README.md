@@ -13,16 +13,16 @@ I started my career as a Junior Test Analyst at Stefanini, after being selected 
 
 ### Tools :wrench:
 * [BusinessMap (Formerly kanbanize)](https://www.businessmap.io/), [Trello](https://trello.com/pl/tour) - project management
-* [Slack](https://slack.com/) - communication within the team
-* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
+* [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/free) - communication within the team
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/), [Firefox Devtools](https://firefox-source-docs.mozilla.org/devtools-user/)- for better testing and improving bug reports
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
 * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
 * [Postman](https://www.postman.com/) - API testing
-* [Selenium](https://www.selenium.dev/)
+* [Selenium](https://www.selenium.dev/), [Eclipse IDE](https://eclipseide.org) - for test automation
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
-* [Appium](https://www.appium.io/)
+* [Appium](https://www.appium.io/)- practicing mobile testing
 
 ### Tech skills :computer:
 * [ISTQB Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level) knowledge
