@@ -56,5 +56,8 @@ I started my career as a Junior Test Analyst at Stefanini, after being selected 
 * [Test-Oriented programming with C](WIP)
 * [Implementing BDD with Cucumber and Java](https://drive.google.com/file/d/10oHOim2IGZ6Tp-T4lNq3424StOrlfQjp/view?usp=sharing)
 
+### Projects :microscope:
+* [Dara Scraping](https://github.com/fga-eps-mds/2021.2-INDICAA/tree/main)
+* [Raspberry image detection](https://github.com/guigudf/Rasp_sonolencia)
 
 
