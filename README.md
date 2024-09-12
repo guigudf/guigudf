@@ -31,12 +31,13 @@ I started my career as a Junior Test Analyst at Stefanini, after being selected 
 * Reporting bugs
 * Creating bug reports
 * Test automation with [Selenium](https://www.selenium.dev/)
-* Basic HTML and CSS
 * Creating documentation
 * Performing smoke tests
 * Scrum and Kanban workflow
 * Arduino e Raspberry coding with C++ and python
+* Basic HTML and PHP
 * Basic frontend developer knowledge
+* Tailwind CSS
 
 
 ### Soft skills :file_folder:
