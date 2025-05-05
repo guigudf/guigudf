@@ -50,11 +50,12 @@ I started my career as a Junior Test Analyst at Stefanini, after being selected 
 
 ### Courses :notebook:
 * [Test Automation](https://workover.com.br/cursos/113/automacao-de-testes)
+* [Java API Automation](https://workover.com.br/certificados/cursos/d8d69f40c0a56c6fc77ea9017258dd6b/validador)
+* [Unit Testing with JUnit and Mockito](https://workover.com.br/certificados/cursos/7e20760dff6a4d07fa6d942a8fedb6dc/validador)
 
 
 ### Certificates :trophy:
-* [ISTQB CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level)
-* [Test-Oriented programming with C](WIP)
+* [AWS Cloud Practitioner]([(https://drive.google.com/file/d/15jdIVJy3Td9MoA9kYGMc8f2xMv8jiD0t/view?usp=sharing))
 * [Implementing BDD with Cucumber and Java](https://drive.google.com/file/d/10oHOim2IGZ6Tp-T4lNq3424StOrlfQjp/view?usp=sharing)
 
 ### Projects :microscope:
