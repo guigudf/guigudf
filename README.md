@@ -55,7 +55,7 @@ I started my career as a Junior Test Analyst at Stefanini, after being selected 
 
 
 ### Certificates :trophy:
-* [AWS Cloud Practitioner]([(https://drive.google.com/file/d/15jdIVJy3Td9MoA9kYGMc8f2xMv8jiD0t/view?usp=sharing))
+* [AWS Cloud Practitioner](https://drive.google.com/file/d/15jdIVJy3Td9MoA9kYGMc8f2xMv8jiD0t/view?usp=sharing)
 * [Implementing BDD with Cucumber and Java](https://drive.google.com/file/d/10oHOim2IGZ6Tp-T4lNq3424StOrlfQjp/view?usp=sharing)
 
 ### Projects :microscope:
