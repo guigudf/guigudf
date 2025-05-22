@@ -1,7 +1,7 @@
 # Guilherme dos Santo Araujo, Test Analyst - QA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/guilherme-dos-santos-araujo-1ab66117b/)](https://www.linkedin.com/in/guilherme-dos-santos-araujo-1ab66117b/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/guigudf)](https://whats.link/guigudf)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/guigudf)](https://whats.link/guidsa)
 [![Hotmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:guigudf@hotmail.com)](mailto:guigudf@hotmail.com)
 
 ### About me :wave:
